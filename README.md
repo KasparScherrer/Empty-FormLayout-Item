@@ -5,7 +5,7 @@
 <dependency>
    <groupId>ch.carnet.kasparscherrer</groupId>
    <artifactId>emptyformlayoutitem</artifactId>
-   <version>1.0.0</version>  <!-- for Vaadin 10: use version 1.0.0 -->
+   <version>1.0.0</version>
 </dependency>
 ````
 ````
@@ -13,7 +13,6 @@
    <id>vaadin-addons</id>
    <url>http://maven.vaadin.com/vaadin-addons</url>
 </repository>
-
 ````
 
 ## How to use
