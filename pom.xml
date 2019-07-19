@@ -3,7 +3,7 @@
 
     <groupId>ch.carnet.kasparscherrer</groupId>
     <artifactId>emptyformlayoutitem</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.2</version>
     <name>Empty FormLayout Item</name>
     <description>Add this component to a FormLayout to leave an item-slot empty.</description>
 
