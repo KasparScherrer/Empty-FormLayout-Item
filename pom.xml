@@ -8,7 +8,7 @@
     <description>Add this component to a FormLayout to leave an item-slot empty.</description>
 
     <properties>
-        <vaadin.version>13.0.11</vaadin.version>
+        <vaadin.version>14.6.2</vaadin.version>
 
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
